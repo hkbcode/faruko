@@ -1,5 +1,4 @@
-## Gatsbyjs starter blog with Ant design and netlify CMS
-
+repo reset
 
 start building websites with 
 
